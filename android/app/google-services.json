@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907431246495",
+    "project_id": "gelecek-hayalim",
+    "storage_bucket": "gelecek-hayalim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907431246495:android:134f6720803a79066e80aa",
+        "android_client_info": {
+          "package_name": "com.kalaycik.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAraZ7BsAmDnLjOwRsfxW1ZD9R5i5N37E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
